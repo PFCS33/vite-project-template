@@ -1,5 +1,6 @@
-# my file structure for vite project
+## instruction
 
-- config auto-import of element-plus
-- router, vuex are set
-- global style set in @/style.css
+- Use [element-plus](https://element-plus.org/en-US/) as default UI components
+  - use auto-import approach
+- Set **vue-route** & **vuex** 
+- Use [Sass](https://sass-lang.com/) as css preprocessor
